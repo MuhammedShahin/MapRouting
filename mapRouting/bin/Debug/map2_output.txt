@@ -1,0 +1,62 @@
+4.06 mins
+0.92 km
+0.14 km
+0.78 km
+7 ms
+
+5.04 mins
+0.89 km
+0.27 km
+0.62 km
+0 ms
+
+4.43 mins
+0.99 km
+0.21 km
+0.78 km
+0 ms
+
+1.9 mins
+0.4 km
+0.12 km
+0.28 km
+0 ms
+
+4.61 mins
+1.23 km
+0.18 km
+1.05 km
+0 ms
+
+5.09 mins
+1.24 km
+0.18 km
+1.06 km
+0 ms
+
+5.18 mins
+1.05 km
+0.27 km
+0.78 km
+0 ms
+
+4.08 mins
+0.8 km
+0.18 km
+0.62 km
+0 ms
+
+4.58 mins
+1 km
+0.22 km
+0.78 km
+0 ms
+
+5.23 mins
+1.02 km
+0.24 km
+0.78 km
+0 ms
+
+
+7 ms

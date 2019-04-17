@@ -1,0 +1,62 @@
+217.73 mins
+30.14 km
+14.14 km
+16 km
+7 ms
+
+269.73 mins
+72.48 km
+8.48 km
+64 km
+0 ms
+
+253.46 mins
+51.32 km
+19.32 km
+32 km
+0 ms
+
+243.28 mins
+40.27 km
+8.27 km
+32 km
+0 ms
+
+303.22 mins
+60.27 km
+12.27 km
+48 km
+0 ms
+
+237.31 mins
+39.78 km
+7.78 km
+32 km
+0 ms
+
+291.79 mins
+51.32 km
+19.32 km
+32 km
+0 ms
+
+190.9 mins
+39.11 km
+7.11 km
+32 km
+0 ms
+
+166.97 mins
+25.91 km
+9.91 km
+16 km
+0 ms
+
+179.71 mins
+26.98 km
+10.98 km
+16 km
+0 ms
+
+
+7 ms
